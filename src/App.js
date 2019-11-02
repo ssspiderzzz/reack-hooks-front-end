@@ -3,7 +3,9 @@ import axios from "axios";
 import "./App.css";
 
 export default function App(props) {
-  const [state, setState] = useState("Click the button to load data!");
+  const [state, setState] = useState({
+    message: "Click the button to load data!"
+  });
 
   function fetchData() {
     axios
