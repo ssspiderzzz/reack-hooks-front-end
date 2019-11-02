@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## React-Hooks-Front-End BoilerPlate
 
-A react boiler plate has hooks setup and remove non-use css codes from create-react-app. The purpose for this boiler plate is to create a deployment ready environment.
+A react boiler plate has hooks setup and remove non-use css codes from create-react-app. This boilerplate is in a deployment ready environment.
 
 ### `npm start`
 
